@@ -1,0 +1,15 @@
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\bin\Debug\net6.0\number001_Hello_World.exe
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\bin\Debug\net6.0\number001_Hello_World.deps.json
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\bin\Debug\net6.0\number001_Hello_World.runtimeconfig.json
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\bin\Debug\net6.0\number001_Hello_World.dll
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\bin\Debug\net6.0\number001_Hello_World.pdb
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\number001_Hello_World.csproj.AssemblyReference.cache
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\number001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\number001_Hello_World.AssemblyInfoInputs.cache
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\number001_Hello_World.AssemblyInfo.cs
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\number001_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\number001_Hello_World.dll
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\refint\number001_Hello_World.dll
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\number001_Hello_World.pdb
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\number001_Hello_World.genruntimeconfig.cache
+C:\Users\like_\Desktop\CSharp\number001_Hello_World\obj\Debug\net6.0\ref\number001_Hello_World.dll
